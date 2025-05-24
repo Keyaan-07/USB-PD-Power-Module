@@ -17,7 +17,7 @@ I have also decided that instead of using EasyEDA this time, i will be using "KI
 
 Ok, so let me just write out all the finalised parts here:
 1. [I2C OLED](https://robu.in/product/4pin-oled-display-module-blue-color/)
-2. [Rotary Encoders x2](https://robu.in/product/4pin-oled-display-module-blue-color/)
+2. [Rotary Encoders x2](https://robu.in/product/hongyan-ec11h-7ce15p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in/), [what i chose earlier](https://robu.in/product/4pin-oled-display-module-blue-color/)
 3. Microcontroller: [RP2040](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_Raspberry-Pi-RP2040_C2040.html)
 4. [Flash for RP2040](https://lcsc.com/product-detail/NOR-FLASH_Winbond-Elec-W25Q128JVSIQ_C97521.html)
 5. USB PD Sink Controller: [AP33772SDKZ-13-FA01](https://www.mouser.in/ProductDetail/Diodes-Incorporated/AP33772SDKZ-13-FA01?qs=2wMNvWM5ZX4CLYQ4%252BLyimw%3D%3D)
@@ -33,5 +33,5 @@ I chose a bigger chip rather than the typical 16Mbit because of mainly three rea
 ok, so i have finished with the work for the day, today i completed the RP2040 connections, like the bare minimum connections required, and i also finalised the parts, and tomorrow i will be looking into the connections of the USB-PD controller, and i hope to make a 4 layer PCB, although i will try with 2 layers, if it will be possible.
 ![Schematic done on 24th may](https://github.com/user-attachments/assets/033630af-b5f1-48d7-bd09-a7f47c8bbd45)
 
-
+PS: I am changing the rotary encoders as i found out about a new, more popular encoder, the EC11H, which is the one that i will be using...  
 ### Total Time Spent today - 1h 30 mins
