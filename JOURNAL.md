@@ -15,3 +15,9 @@ Today, i made a block diagram by hand, and i selected the [ams1117 3.3v LDO regu
 
 I have also decided that instead of using EasyEDA this time, i will be using "KICAD - THE DAD OF CIRCUIT DESIGN"(lol). I started working on the schematic. RP2040 is also finalised for now. so 2 USB-C connectors will be on the PCB, one for programming RP2040 and other for **POWER**
 
+Ok, so let me just write out all the finalised parts here:
+1. [I2C OLED](https://robu.in/product/4pin-oled-display-module-blue-color/)
+2. [Rotary Encoders x2](https://robu.in/product/4pin-oled-display-module-blue-color/)
+3. Microcontroller: [RP2040](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_Raspberry-Pi-RP2040_C2040.html)
+4. [Flash for RP2040](https://lcsc.com/product-detail/NOR-FLASH_Winbond-Elec-W25Q128JVSIQ_C97521.html)
+5. USB PD Sink Controller: [AP33772SDKZ-13-FA01](https://www.mouser.in/ProductDetail/Diodes-Incorporated/AP33772SDKZ-13-FA01?qs=2wMNvWM5ZX4CLYQ4%252BLyimw%3D%3D)
