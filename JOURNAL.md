@@ -21,3 +21,11 @@ Ok, so let me just write out all the finalised parts here:
 3. Microcontroller: [RP2040](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_Raspberry-Pi-RP2040_C2040.html)
 4. [Flash for RP2040](https://lcsc.com/product-detail/NOR-FLASH_Winbond-Elec-W25Q128JVSIQ_C97521.html)
 5. USB PD Sink Controller: [AP33772SDKZ-13-FA01](https://www.mouser.in/ProductDetail/Diodes-Incorporated/AP33772SDKZ-13-FA01?qs=2wMNvWM5ZX4CLYQ4%252BLyimw%3D%3D)
+6. [Push Button](https://lcsc.com/product-detail/Tactile-Switches_C-K-PTS810SJK250SMTRLFS_C221896.html)
+7. [Crystal @ 12MHz](https://www.lcsc.com/product-detail/Crystals_Abracon-LLC-ABM8-272-T3_C20625731.html?s_z=n_ABM8-272-T3)
+
+#### Why I chose a 128Mbit chip instead of a smaller one?
+I chose a bigger chip rather than the typical 16Mbit because of mainly three reasons:  
+    1. the difference in price is about $0.1.  
+    2. The RP2040 design guide recommends it.  
+    3. I dont know how long is the code gonna be.  
