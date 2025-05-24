@@ -11,7 +11,7 @@ i think i am gonna use some microcontroller (probably an rp2040) along with an O
 # May 24 2025:
 Today, i made a block diagram by hand, and i selected the [ams1117 3.3v LDO regulator](https://lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html) for the RP2040, but then i came to realise that the max input voltage for ams1117 is 15V, while max voltage with PD is 20V, so i chose another regulator(it is so hard to find a proper regulator). the new regulator now is [AMS1117S-3.3](https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_JSMSEMI-AMS1117S-3-3_C917152.html)
 
-![Handmade Block Diagram](https://github.com/user-attachments/assets/e52aae66-0bd2-412d-a26d-ffc273337d7d)
+<img src="https://github.com/user-attachments/assets/e52aae66-0bd2-412d-a26d-ffc273337d7d" alt="Handmade Block Diagram" width="500" height="282">
 
 I have also decided that instead of using EasyEDA this time, i will be using "KICAD - THE DAD OF CIRCUIT DESIGN"(lol). I started working on the schematic. RP2040 is also finalised for now. so 2 USB-C connectors will be on the PCB, one for programming RP2040 and other for **POWER**
 
@@ -34,4 +34,13 @@ ok, so i have finished with the work for the day, today i completed the RP2040 c
 ![Schematic done on 24th may](https://github.com/user-attachments/assets/033630af-b5f1-48d7-bd09-a7f47c8bbd45)
 
 PS: I am changing the rotary encoders as i found out about a new, more popular encoder, the [EC11H](https://robu.in/product/hongyan-ec11h-7ce15p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in/), which is the one that i will be using...  
-### Total Time Spent today - 1h 30 mins
+
+okay, i had some free time tonight so i worked more on the schematic, i came to realise that i have to LOGIC-SHIFT the I2C communication, so that i dont burn the rp2040, so for logic shifting i found BS138 to be the most common and i went with them. So, for proper logic-shifting, we also need a proper 5V supply, so i chose another LDO regulator😭(it's a pain finding proper regulator). A wise legend once said, choose your components wisely.Btw, i also added a few capacitors to the PD controller.
+
+Things added to schematic:  
+![image](https://github.com/user-attachments/assets/a2c67a91-b5f2-40c4-9b77-74e53549e0ee)
+![image](https://github.com/user-attachments/assets/7894817c-4af5-4eb1-8c2e-939a754048d4)
+
+If i were to rate the experience using Kicad rather than EasyEDA, i would say that it is good, and you get A LOT of customisability, but EasyEDA is much simple.
+
+### Total Time Spent today - 2 hours 10 mins
