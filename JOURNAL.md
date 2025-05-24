@@ -29,3 +29,9 @@ I chose a bigger chip rather than the typical 16Mbit because of mainly three rea
     1. the difference in price is about $0.1.  
     2. The RP2040 design guide recommends it.  
     3. I dont know how long is the code gonna be.  
+
+ok, so i have finished with the work for the day, today i completed the RP2040 connections, like the bare minimum connections required, and i also finalised the parts, and tomorrow i will be looking into the connections of the USB-PD controller, and i hope to make a 4 layer PCB, although i will try with 2 layers, if it will be possible.
+![Schematic done on 24th may](https://github.com/user-attachments/assets/033630af-b5f1-48d7-bd09-a7f47c8bbd45)
+
+
+### Total Time Spent today - 1h 30 mins
