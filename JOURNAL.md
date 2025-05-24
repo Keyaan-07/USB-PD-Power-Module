@@ -33,5 +33,5 @@ I chose a bigger chip rather than the typical 16Mbit because of mainly three rea
 ok, so i have finished with the work for the day, today i completed the RP2040 connections, like the bare minimum connections required, and i also finalised the parts, and tomorrow i will be looking into the connections of the USB-PD controller, and i hope to make a 4 layer PCB, although i will try with 2 layers, if it will be possible.
 ![Schematic done on 24th may](https://github.com/user-attachments/assets/033630af-b5f1-48d7-bd09-a7f47c8bbd45)
 
-PS: I am changing the rotary encoders as i found out about a new, more popular encoder, the EC11H, which is the one that i will be using...  
+PS: I am changing the rotary encoders as i found out about a new, more popular encoder, the [EC11H](https://robu.in/product/hongyan-ec11h-7ce15p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in/), which is the one that i will be using...  
 ### Total Time Spent today - 1h 30 mins
