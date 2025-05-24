@@ -1,1 +1,1 @@
-# USB-PD-Power-Module
+# USB-PD-Power-Supply
