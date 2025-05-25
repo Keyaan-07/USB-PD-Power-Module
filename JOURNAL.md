@@ -56,3 +56,5 @@ If i were to rate the experience using Kicad rather than EasyEDA, i would say th
 # May 25 2025:
 Another New day, another new schematic making sesh...
 Today i will likely complete the schematic
+
+So i have added the rotary encoders in the schematic, and i also added ESD protection on the USB-C ports. worked on the schematic too, and i had a bit of issue with the PD controller, what happened was that there were two voltage pins, VCC and VOUT, and i wasn't sure what to cnnect to what, but now it is fixed, thanks to the application circuit. so the plan is, today i finish the schematic, i start with the PCB at night, and by tomorrow night i start with the cad, and i apply by day after tomorrow night, let's  see if i can apply by May 27 night, after that i will start with the code for it.
