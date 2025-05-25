@@ -57,4 +57,13 @@ If i were to rate the experience using Kicad rather than EasyEDA, i would say th
 Another New day, another new schematic making sesh...
 Today i will likely complete the schematic
 
-So i have added the rotary encoders in the schematic, and i also added ESD protection on the USB-C ports. worked on the schematic too, and i had a bit of issue with the PD controller, what happened was that there were two voltage pins, VCC and VOUT, and i wasn't sure what to cnnect to what, but now it is fixed, thanks to the application circuit. so the plan is, today i finish the schematic, i start with the PCB at night, and by tomorrow night i start with the cad, and i apply by day after tomorrow night, let's  see if i can apply by May 27 night, after that i will start with the code for it.
+So i have added the rotary encoders in the schematic, and i also added ESD protection on the USB-C ports. worked on the schematic too, and i had a bit of issue with the PD controller, what happened was that there were two voltage pins, VCC and VOUT, and i wasn't sure what to cnnect to what, but now it is fixed, thanks to the application circuit. so the plan is, today i finish the schematic, i start with the PCB at night, and by tomorrow night i start with the cad, and i apply by day after tomorrow night, let's  see if i can apply by May 27 night, after that i will start with the code for it.  
+#### Yay! the schematic is done!!  
+
+![image](https://github.com/user-attachments/assets/13cf5eb4-abae-4cdd-bb6a-31a3ac82cb6d)
+![image](https://github.com/user-attachments/assets/814ef4ec-9d0c-4317-b3b0-6e8084588675)
+![image](https://github.com/user-attachments/assets/5fff4948-45a7-4b58-8890-0cd2044d3c3b)
+
+
+
+
