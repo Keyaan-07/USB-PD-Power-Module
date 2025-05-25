@@ -65,5 +65,7 @@ So i have added the rotary encoders in the schematic, and i also added ESD prote
 ![image](https://github.com/user-attachments/assets/5fff4948-45a7-4b58-8890-0cd2044d3c3b)
 
 
-# Total time spent: 2 hours 30 mins
+Ok, it's evening now, and i completed all the work of assigning footprints to symbols, now i can finally start with pcb designing
+
+# Total time spent: 3 hours 30 mins
 
