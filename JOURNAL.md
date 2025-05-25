@@ -67,5 +67,14 @@ So i have added the rotary encoders in the schematic, and i also added ESD prote
 
 Ok, it's evening now, and i completed all the work of assigning footprints to symbols, now i can finally start with pcb designing
 
-# Total time spent: 3 hours 30 mins
 
+Hell Yeah! Most of the placement on my PCB is like done, and tomorrow i will start with the routing and finish it ASAP.  
+![image](https://github.com/user-attachments/assets/5167ee3c-844b-4157-a108-3768e571add0)  
+![image](https://github.com/user-attachments/assets/bec21b0c-56a5-4cc1-a2e0-06aefbbd0601)  
+Haha, i will add 3d models tomorrow.  
+This is the Design till now, i've tried to keep it as small as possible(50mmx70mm) and i will reduce the size even more if needed, but i haven't yet found connectors. People on slack recommened me XT60 connector, but i am not sure what am i gonna use.  
+Maybe i can integrate multiple kinds of connectors, but this is for tomorrow, i am really really tired today
+
+
+### Total time spent: 6 hours
+--------------
