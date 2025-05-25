@@ -65,5 +65,5 @@ So i have added the rotary encoders in the schematic, and i also added ESD prote
 ![image](https://github.com/user-attachments/assets/5fff4948-45a7-4b58-8890-0cd2044d3c3b)
 
 
-
+# Total time spent: 2 hours 30 mins
 
