@@ -1,7 +1,7 @@
 ---
 title: "USB PD Power Suply"
 author: "Keyaan"
-description: "USB-PD Based Power Supply"
+description: "USB-PD Based Power Supply to power your non-5V electronics"
 created_at: "2024-05-23"
 ---
 
