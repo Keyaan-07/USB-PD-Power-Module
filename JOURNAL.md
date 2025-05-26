@@ -78,3 +78,8 @@ Maybe i can integrate multiple kinds of connectors, but this is for tomorrow, i 
 
 ### Total time spent: 6 hours
 --------------
+# May 26 2025:
+Yup, i started the PCB routing, i added 4 M3 Mounting holes too, here is the current progress:  
+![image](https://github.com/user-attachments/assets/ab1a7e60-d05f-438c-840f-0d3713f971ca)
+
+#### Time spent this session: 1 hour 45 mins
