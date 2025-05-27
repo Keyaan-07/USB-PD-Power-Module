@@ -83,3 +83,20 @@ Yup, i started the PCB routing, i added 4 M3 Mounting holes too, here is the cur
 ![image](https://github.com/user-attachments/assets/ab1a7e60-d05f-438c-840f-0d3713f971ca)
 
 #### Time spent this session: 1 hour 45 mins
+### Time Spent Today: 1 hour 45 mins
+--------------
+# May 27 2025
+Today was the day i was supposed to complete my project, it is ofcourse delayed, but i will try to complete by tomorrow, i completed the pcb today, got a few errors to deal with:  
+![image](https://github.com/user-attachments/assets/ad562d0d-9157-43db-87c6-80385e1f40e0)  
+All the errors are the same, just for different components.
+Here is the finished PCB:  
+![image](https://github.com/user-attachments/assets/8b8628a2-fccd-4477-9366-7fd374929320)
+
+Here is the CAD file i started tonight:  
+![image](https://github.com/user-attachments/assets/0a1edd0a-66b0-4d39-9e10-f3af15691466)  
+(I spent 5 mins only on the CAD)  
+
+
+### Time Spent Today: 1 hour 30 mins
+--------------
+
