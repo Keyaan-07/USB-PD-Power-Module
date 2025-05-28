@@ -99,4 +99,6 @@ Here is the CAD file i started tonight:
 
 ### Time Spent Today: 1 hour 30 mins
 --------------
-
+# May 28 2025
+Done with the PCB, rmeoved all the thermal errors by using a bunch of vias and got 0 errors and warnings! I also shifted the barrel jack to the right by 2mm so that it would not be a problem in 3d printed part... Now Working on the 3D Model
+#### Time Spent this session: 20 mins
