@@ -102,3 +102,19 @@ Here is the CAD file i started tonight:
 # May 28 2025
 Done with the PCB, rmeoved all the thermal errors by using a bunch of vias and got 0 errors and warnings! I also shifted the barrel jack to the right by 2mm so that it would not be a problem in 3d printed part... Now Working on the 3D Model
 #### Time Spent this session: 20 mins
+ Completed the CAD, here are the final images:  
+   
+ CAD:  
+ ![image](https://github.com/user-attachments/assets/babcb920-5bb2-4972-af39-2042b7cf4a04)    
+ ![image](https://github.com/user-attachments/assets/7cf7985a-c85c-4552-ae46-b0d065034048)
+
+  
+PCB:  
+![image](https://github.com/user-attachments/assets/b1b06363-f7c4-4f2f-ad24-0d1307ba7d3d)  
+![image](https://github.com/user-attachments/assets/72b781c0-492a-476f-b777-d17956618048)  
+
+# Time Spent this session: 1 hour 45 mins
+
+Now time to work on other things like writing README.md and writing total time on top and writing BOM and all that
+
+
