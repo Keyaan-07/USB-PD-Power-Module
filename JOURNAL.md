@@ -122,5 +122,8 @@ PCB:
 Now time to work on other things like writing README.md and writing total time on top and writing BOM and all that
 
 # May 29 2025
-Shit, i cant find any DC barrel jack connectors on LCSC and i made a mistake selecting the footprint of the regulator ic, so i got to change some stuff up😭
+Shit, i cant find any DC barrel jack connectors on LCSC and i made a mistake selecting the footprint of the regulator ic, so i got to change some stuff up😭  
+Finally:  
+![Final PCB](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/pcb.png)
+![image](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/Final1.png)
 # time spent today: 30 mins
