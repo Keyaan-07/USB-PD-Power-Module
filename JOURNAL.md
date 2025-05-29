@@ -5,6 +5,9 @@ description: "USB-PD Based Power Supply to power your non-5V electronics"
 created_at: "2024-05-23"
 ---
 --------------
+# Total Time Spent: 13 hours and 30 minutes
+
+
 # May 23 2025:
 Today i will be finding the USB PD negotiation IC. So basically i have the idea of making the smallest(that i can create) power module to power my electronics projects,
 when i am prototyping.
@@ -113,7 +116,7 @@ PCB:
 ![image](https://github.com/user-attachments/assets/b1b06363-f7c4-4f2f-ad24-0d1307ba7d3d)  
 ![image](https://github.com/user-attachments/assets/72b781c0-492a-476f-b777-d17956618048)  
 
-# Time Spent this session: 1 hour 45 mins
+### Time Spent this session: 1 hour 45 mins
 
 Now time to work on other things like writing README.md and writing total time on top and writing BOM and all that
 
