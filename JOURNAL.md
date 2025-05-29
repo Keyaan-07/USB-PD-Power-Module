@@ -5,7 +5,7 @@ description: "USB-PD Based Power Supply to power your non-5V electronics"
 created_at: "2024-05-23"
 ---
 --------------
-# Total Time Spent: 13 hours and 30 minutes
+# Total Time Spent: 14 hours
 # Also spent about 2 hours making the BOM and finalising components
 
 
@@ -121,4 +121,6 @@ PCB:
 
 Now time to work on other things like writing README.md and writing total time on top and writing BOM and all that
 
-
+# May 29 2025
+Shit, i cant find any DC barrel jack connectors on LCSC and i made a mistake selecting the footprint of the regulator ic, so i got to change some stuff up😭
+# time spent today: 30 mins
