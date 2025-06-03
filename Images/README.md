@@ -1,1 +1,1 @@
-# Images for USB-PD-Power-supply is in this directory
+# Images for USB-PD-Power-supply are in this directory
