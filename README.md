@@ -5,16 +5,16 @@ By using USB PD Protocol, it can negotiate more than 5V from the USB PD charger.
 USB PD Power Supply can use both PD and PPS to cupply voltage. The microcontroller is the OG RP2040, which communications with the AP33772SDKZ USB PD negotiator IC to negotiate voltage levels. The Voltage and max current settings are controllable using the two rotary encoders present on the PCB.  
 
 # Images
- ![image](https://github.com/user-attachments/assets/babcb920-5bb2-4972-af39-2042b7cf4a04)    
- ![image](https://github.com/user-attachments/assets/7cf7985a-c85c-4552-ae46-b0d065034048)
+ ![image](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/Final1.png)    
+ ![image](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/Final2.png)
 <br>
 
-![image](https://github.com/user-attachments/assets/b1b06363-f7c4-4f2f-ad24-0d1307ba7d3d)  
-![image](https://github.com/user-attachments/assets/72b781c0-492a-476f-b777-d17956618048)  
+  
+![image](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/pcb.png)  
 
 <br>  
 
-![image](https://github.com/user-attachments/assets/9dbc4ca2-4019-4f28-ac9c-9ed065456d70)  
-![image](https://github.com/user-attachments/assets/2375700d-478d-4c71-bd65-8e767b2b3966)
+![image](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/Bottom1.png)  
+![image](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/Top1.png)
 
 # BOM
