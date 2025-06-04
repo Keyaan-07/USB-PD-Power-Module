@@ -6,8 +6,12 @@ USB PD Power Supply can use both PD and PPS to cupply voltage. The microcontroll
 
 
 
-# How the heck do you assemble this thing?
+## How the heck do you assemble this thing?
 First of all, you start with the gerber and upload it to your desired pcb manufacturer, I am gonna use [PCB Power](https://pcbpower.com). Now you order the PCB and all the components, and you wait, after they arrive, you cook(assemble) the PCB. Then what you do is that you upload the code and start using, 3D printed case is optional but you could download the files for that too! Flash firmware(firmware to come in a few days) on RP2040 using thonny or other software and boom your [USB-PD-Power-supply](https://github.com/Keyaan-07/USB-PD-Power-Supply/) is ready
+
+## Why I chose to make this Project
+I chose to make this project mainly because of the power issues i face. A few days ago, I wanted to power a coil for an electromagnet, i was not able to power it because of power supply from the Power bank (5V) was not enough, so i had the idea of making this because my dad's phone has a USB PD Charger so i could use that charger to power electronics that require higher voltage. That type of a project would be too simple, so i also added two rotary encoders and make a dedicated power supply. 
+
 # Images
  ![image](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/Final1.png)    
  ![image](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/Final2.png)
