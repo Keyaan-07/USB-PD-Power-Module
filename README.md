@@ -4,6 +4,10 @@ By using USB PD Protocol, it can negotiate more than 5V from the USB PD charger.
 
 USB PD Power Supply can use both PD and PPS to cupply voltage. The microcontroller is the OG RP2040, which communications with the AP33772SDKZ USB PD negotiator IC to negotiate voltage levels. The Voltage and max current settings are controllable using the two rotary encoders present on the PCB.  
 
+
+
+# How the heck do you assemble this thing?
+First of all, you start with the gerber and upload it to your desired pcb manufacturer, I am gonna use [PCB Power](https://pcbpower.com). Now you order the PCB and all the components, and you wait, after they arrive, you cook(assemble) the PCB. Then what you do is that you upload the code and start using, 3D printed case is optional but you could download the files for that too! Flash firmware(firmware to come in a few days) on RP2040 using thonny or other software and boom your [USB-PD-Power-supply](https://github.com/Keyaan-07/USB-PD-Power-Supply/) is ready
 # Images
  ![image](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/Final1.png)    
  ![image](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/Final2.png)
