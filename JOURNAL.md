@@ -6,7 +6,7 @@ created_at: "2024-05-23"
 ---
 --------------
 # Total Time Spent: 14 hours
-# Also spent about 2 hours making the BOM and finalising components
+# Also spent about 3 hours making the BOM and finalising components
 
 
 # May 23 2025:
